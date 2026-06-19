@@ -8,7 +8,7 @@ This application also supports the collection of different types of waste such a
 ---
 
 ## 🎯 Objective
-The objective of this application is to connect customers who want to donate recyclable waste with small businesses that need these materials. This helps solve both problems efficiently by enabling direct interaction between waste providers and recyclers.
+The objective of this application is to connect customers who want to donate recyclable waste with small businesses that need these materials. This helps solve both problems efficiently by enabling direct interaction between waste providers and recyclers
 
 ---
 
